@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ProductStoreApp
+comment1.params=userId\ userInfoApp
+comment1.target=ProductStoreApp(int,\ UserInfoApp)
+comment2.params=
+comment2.target=javafx.scene.layout.GridPane\ createProductGrid()
+comment3.params=grid\ search\ category\ availability
+comment3.target=void\ updateProductGrid(javafx.scene.layout.GridPane,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=product
+comment4.target=javafx.scene.layout.VBox\ createProductBox(Product)
+comment5.params=product
+comment5.target=void\ showProductDetails(Product)
+comment6.params=product\ id\ quantity
+comment6.target=void\ addToInventory(Product,\ int,\ int)
+comment7.params=type\ message
+comment7.target=void\ showAlert(javafx.scene.control.Alert.AlertType,\ java.lang.String)
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DAOTransaction
+comment1.params=transaction
+comment1.target=boolean\ insertTransaction(Transaction)
+comment2.params=transactionId
+comment2.target=boolean\ deleteTransaction(int)
+comment3.params=userId
+comment3.target=java.util.List\ getTransactionsByUserId(int)
+numComments=4

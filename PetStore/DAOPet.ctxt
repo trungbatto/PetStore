@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DAOPet
+comment1.params=pet
+comment1.target=boolean\ insertPet(Pet)
+comment2.params=petId
+comment2.target=boolean\ deletePet(int)
+comment3.params=pet
+comment3.target=boolean\ updatePet(Pet)
+comment4.params=id
+comment4.target=Pet\ getPetById(int)
+comment5.params=
+comment5.target=java.util.List\ getAllPets()
+numComments=6

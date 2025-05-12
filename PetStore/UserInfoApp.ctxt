@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=UserInfoApp
+comment1.params=userId
+comment1.target=UserInfoApp(int)
+comment2.params=
+comment2.target=void\ refreshInventory()
+numComments=3
