@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=MainTabsApp
-comment1.params=userId
-comment1.target=MainTabsApp(int)
-comment2.params=primaryStage
-comment2.target=void\ start(javafx.stage.Stage)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
