@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DAOManager
+comment1.params=
+comment1.target=java.util.List\ getAllManagers()
+comment2.params=managerId
+comment2.target=Manager\ getManagerById(int)
+comment3.params=manager
+comment3.target=void\ addManager(Manager)
+comment4.params=manager
+comment4.target=void\ updateManager(Manager)
+comment5.params=managerId
+comment5.target=void\ deleteManager(int)
+comment6.params=username\ password
+comment6.target=Manager\ authenticateManager(java.lang.String,\ java.lang.String)
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ProductManagement
+comment1.params=
+comment1.target=ProductManagement()
+comment2.params=
+comment2.target=javafx.scene.layout.GridPane\ createProductGrid()
+comment3.params=grid\ search\ category
+comment3.target=void\ updateProductGrid(javafx.scene.layout.GridPane,\ java.lang.String,\ java.lang.String)
+comment4.params=product
+comment4.target=void\ showProductDetails(Product)
+comment5.params=product\ parentStage
+comment5.target=void\ openModifyProductForm(Product,\ javafx.stage.Stage)
+comment6.params=
+comment6.target=void\ openAddProductForm()
+comment7.params=
+comment7.target=void\ refreshProductGrid()
+comment8.params=type\ title\ content
+comment8.target=void\ showAlert(javafx.scene.control.Alert.AlertType,\ java.lang.String,\ java.lang.String)
+numComments=9

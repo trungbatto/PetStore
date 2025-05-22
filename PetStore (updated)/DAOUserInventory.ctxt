@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DAOUserInventory
+comment1.params=inventory\ product
+comment1.target=void\ addInventory(UserInventory,\ Product)
+comment2.params=userId
+comment2.target=java.util.List\ getInventoryByUserId(int)
+comment3.params=userId\ productId
+comment3.target=boolean\ removeInventoryItem(int,\ int)
+numComments=4

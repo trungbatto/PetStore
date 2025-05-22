@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LoginScene
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=primaryStage\ userId
+comment3.target=void\ openTabsApp(javafx.stage.Stage,\ int)
+comment4.params=primaryStage
+comment4.target=void\ openManagerTab(javafx.stage.Stage)
+comment5.params=title\ message
+comment5.target=void\ showErrorDialog(java.lang.String,\ java.lang.String)
+comment6.params=parentStage
+comment6.target=void\ openCreateAccountWindow(javafx.stage.Stage)
+comment7.params=title\ message
+comment7.target=void\ showSuccessDialog(java.lang.String,\ java.lang.String)
+numComments=8
